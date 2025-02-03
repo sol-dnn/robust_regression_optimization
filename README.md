@@ -41,7 +41,7 @@ jupyter notebook project_danan_solal_and_mourre_gregoire.ipynb
 The project explores the efficiency of different regression techniques in handling outliers and noise in data. Detailed analysis and performance comparisons are provided, showcasing the effectiveness of robust regression methods.
 
 ### Contributors
-Solal Danan
-Grégoire Mourre
+- Solal Danan
+- Grégoire Mourre
 
 This project was completed as part of the Optimization for Data Science course given by Alexandre Gramfort and Rémi Flamary.
