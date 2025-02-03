@@ -16,31 +16,25 @@ The key objectives of this project include:
 - Comparing the Huber model’s performance against Ridge and Lasso regression on real datasets.
 - Providing well-structured figures and results, similar to an experiment section in a research paper.
 
-Getting Started
-
-Prerequisites
+#### Getting Started
 
 Ensure you have the following dependencies installed:
 
 pip install numpy scipy matplotlib cvxopt numba
 
-Alternatively, you can use:
-
-pip install -r requirements.txt
-
-Running the Notebook
+#### Running the Notebook
 
 Open the Jupyter notebook and execute the cells in order:
 
 jupyter notebook project_danan_solal_and_mourre_gregoire.ipynb
 
 ### Project Structure
-Part 0: Why a Robust Regression Model?Introduction to robust regression and generating a dataset with outliers.
-Part 1: Mean Absolute Error (MAE) Regression
-Part 2: Huber Regression
-Part 3: Custom Solvers for L1 and L2 Regularization
-Part 4: Creating a scikit-learn Estimator
-Part 5: Experiments and Results
+- Part 0: Why a Robust Regression Model?Introduction to robust regression and generating a dataset with outliers.
+- Part 1: Mean Absolute Error (MAE) Regression
+- Part 2: Huber Regression
+- Part 3: Custom Solvers for L1 and L2 Regularization
+- Part 4: Creating a scikit-learn Estimator
+- Part 5: Experiments and Results
 
 ### Results & Analysis
 
